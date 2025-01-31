@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @varunr1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+
 
 
 <!---
